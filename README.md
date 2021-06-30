@@ -1,6 +1,6 @@
-# Add Note
+# Add Note App
 
-A new Flutter project.
+A Flutter project.
 
 Currently You can Download this app using this link 
 
